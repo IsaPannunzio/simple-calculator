@@ -8,4 +8,4 @@ Essa aplicação é uma calculadora simples sem estrutura de controle.
 
 # Como executar a Aplicação
 * Baixe o JDK
-* Abra o terminal na pasta do projeto e digite "javac nomeDoArquivo.java"
+* Abra o terminal na pasta do projeto e digite "javac SimpleCalculator.java"
