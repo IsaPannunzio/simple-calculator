@@ -1,4 +1,4 @@
-# simple-calculator
+# Simple Calculator
 
 # Sobre
 Essa aplicação é uma calculadora simples sem estrutura de controle.
